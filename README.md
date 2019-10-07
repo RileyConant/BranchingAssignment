@@ -3,4 +3,4 @@
 # BranchingAssignment
 
 
-First thing in branch A
+First thing in BranchA
